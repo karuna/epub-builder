@@ -24,8 +24,8 @@ mustache = "0.9"
 lazy_static = "1"
 chrono = "0.4"
 uuid = { version = "0.8 ", features = ["v4"] }
-tempdir = { version = "0.3", optional = true } 
-zip = { version = "0.5", optional = true } 
+tempdir = { version = "0.3", optional = true }
+zip = { version = "0.5.8", optional = true }
 regex = "1"
 html2text = "0.1"
 
